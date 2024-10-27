@@ -16,6 +16,12 @@ def youtube_download(mp3_or_mp4,url_input):
     except Exception as e:
         print(f"Error message: {e}")
     input("Press to quit...")
+def tik_tok_download():
+    pass
+def instagram_download():
+    pass
+def reddit_download():
+    pass
 def main():
     url_input = input("Youtube url:")
     mp3_or_mp4 = input("Select format (Type + for MP4 or - for MP3):")

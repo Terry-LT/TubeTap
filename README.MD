@@ -16,3 +16,7 @@ TubeTap simplifies downloading YouTube content, offering you flexible, high-qual
 ## How to install
 1. Set up venv
 2. ```pip install requirements.txt```
+## TODO
+1. Instagram video download
+2. TikTok video download
+3. Reddit video download
