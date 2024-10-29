@@ -1,1 +1,3 @@
+instaloader~=4.13.2
 pytubefix~=8.1.1
+RedDownloader~=4.3.0

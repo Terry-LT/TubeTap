@@ -17,6 +17,6 @@ TubeTap simplifies downloading YouTube content, offering you flexible, high-qual
 1. Set up venv
 2. ```pip install requirements.txt```
 ## TODO
-1. Instagram video download
+1. <s>Instagram video download </s>
 2. TikTok video download
-3. Reddit video download
+3. <s>Reddit video download </s>
