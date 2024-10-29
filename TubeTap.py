@@ -9,7 +9,7 @@ def youtube_download(mp3_or_mp4,url_input):
     try:
         yt = YouTube(url_input, on_progress_callback=on_progress)
         print(yt.title)
-        if remove_white_space(mp3_or_mp4.split()) == "+":
+        if remove_white_space(mp3_or_mp4) == "+":
             ys = yt.streams.get_highest_resolution()
             ys.download()
             print("The video mp4 was downloaded!")
