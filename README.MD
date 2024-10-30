@@ -1,17 +1,17 @@
 # TubeTap
 ## Description 
 
-**🎬 TubeTap: Your Go-To YouTube Downloader 🎶**
+### TupeCap 🎥✨
 
-TubeTap is a powerful, user-friendly tool designed to make YouTube video and audio downloads a breeze! With TubeTap, you can download high-quality video (MP4) or audio-only (MP3) with just a single command. 🎉
+TupeCap is an intuitive and versatile video downloader that makes it easy to save your favorite content from popular platforms like YouTube, Instagram, Reddit, and more! 🚀
 
-**✨ Key Features:**
-- **🖱️ Intuitive Interface:** Simply paste your YouTube link, pick your format, and let TubeTap handle the rest!
-- **🎥 Flexible Format Selection:** Download crystal-clear MP4 videos or pure MP3 audio for offline enjoyment, tailored to your needs.
-- **📊 Progress Tracking:** Stay updated with live download progress indicators so you always know where you’re at.
-- **⚠️ Smooth Error Handling:** Encounter issues? TubeTap gracefully reports errors for easy troubleshooting.
+With TupeCap, you can:
+- **Download Videos**: Grab videos from various social media sites in just a few clicks! 📥
+- **Support for Multiple Platforms**: Whether it's a captivating YouTube tutorial, an inspiring Instagram post, or a funny Reddit clip, TupeCap has got you covered! 🌍
+- **User-Friendly Interface**: Designed for simplicity, TupeCap ensures that anyone can download videos hassle-free! 🖥️👌
+- **Quality Options**: Choose your preferred format and resolution for the best viewing experience! 🏆
 
-TubeTap simplifies downloading YouTube content, offering you flexible, high-quality video and audio at your fingertips. 🌐✨ 
+Experience the joy of having your favorite videos at your fingertips with TupeCap! 🌟 Download, enjoy, and share effortlessly!
 
 ## How to install
 1. Set up venv
