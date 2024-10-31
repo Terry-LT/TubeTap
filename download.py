@@ -12,7 +12,7 @@ class Video:
     video_url = ""
     supported_social_media_links = [
         "www.youtube.com",
-        "www.youtu.be",
+        "youtu.be",
         "www.instagram.com",
         "www.reddit.com"
     ]
